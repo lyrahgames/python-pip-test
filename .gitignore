@@ -1,8 +1,10 @@
 *
 !*/
 
+build/
+
 !*.py
 
 !README.md
 
-!.gitignore
+!.git*
